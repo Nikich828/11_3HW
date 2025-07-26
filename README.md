@@ -30,7 +30,7 @@
 
 Ответ
 
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/1.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/1.jpeg)
 
 ### Задание 2. Kibana
 Установите и запустите Kibana.
@@ -39,9 +39,8 @@
 
 Ответ
 
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/2.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/3.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/4.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/2.jpeg)
+
 
 ### Задание 3. Logstash
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
@@ -50,12 +49,9 @@
 
 Ответ
 
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/5.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/6.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/7.jpeg)
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/8.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/9.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/10.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/4.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/3.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/5.jpeg)
 
 
 ### Задание 4. Filebeat
@@ -65,9 +61,4 @@
 
 Ответ
 
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/5.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/6.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/7.jpeg)
-![alt text](https://github.com/Nikich828/11_4HW/blob/master/8.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/9.jpeg)
-![alt text](https://github.com/Nikich828/11_4hw/blob/master/10.jpeg)
+![alt text](https://github.com/Nikich828/11_3HW/blob/master/6.jpeg)
